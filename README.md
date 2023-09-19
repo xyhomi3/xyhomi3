@@ -13,4 +13,6 @@ Ma collaboration efficace avec des designers et des développeurs fait de moi un
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=xyhomi3&bg_color=0000000&color=033a1d&line=099a4d&point=033a1d&area_color=033a1d&area=true&hide_border=true)
+
 
