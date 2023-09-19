@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,ts,html,css,nodejs,materialui,vscode,ps,ai,ae,ableton)](https://skillicons.dev)
 <!--
 **xyhomi3/xyhomi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
