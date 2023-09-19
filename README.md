@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm XYHOMi3</h1>
-<h3 align="center">A passionate frontend developer from West Africa</h3>
+![](https://badges.pufler.dev/visits/xyhomi3/xyhomi3?color=blue&logo=github&style=flat-square)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyhomi3&label=Profile%20views&color=ff6000&style=flat" alt="xyhomi3" /> </p>
+## Quel plaisir de te voir ici !
+Je me nomme Loua Lucien, mais tu peux m'appeler HOMi3. Je suis passionné par la création d'expériences utilisateur et je suis toujours à l'affût des dernières tendances pour optimiser les performances et la convivialité des interfaces web. 
+Ma collaboration efficace avec des designers et des développeurs fait de moi un membre précieux de toute équipe de développement. Mon objectif est d'améliorer continuellement l'expérience en ligne des utilisateurs en créant des produits web innovants et performants.
+## ⚡ Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xyhomi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xyhomi3" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyhomi3&show_icons=true&locale=en&layout=compact" alt="xyhomi3" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyhomi3&" alt="xyhomi3" /></p>
