@@ -17,6 +17,8 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BLOCK: ->
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
           SHOW_PROFILE_VIEWS: True
