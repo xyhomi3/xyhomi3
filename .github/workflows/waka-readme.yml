@@ -22,9 +22,5 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
           SHOW_PROFILE_VIEWS: True
-          LOCALE: True
-          SHOW_TIMEZONE: True
-          SHOW_OS: True
-          SHOW_LANGUAGE: True
-          SHOW_COMMIT: True
+
           
