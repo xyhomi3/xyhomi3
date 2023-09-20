@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=xyhomi3&&style=flat-square)
+[![Gists Badge](https://badges.pufler.dev/gists/xyhomi3)](https://badges.pufler.dev)
+
+
 
 ## Quel plaisir de te voir ici !
 Je me nomme <b>Lucien</b>, mais tu peux m'appeler HOMi3. Je suis passionné par la création d'expériences utilisateur et je suis toujours à l'affût des dernières tendances pour optimiser les performances et la convivialité des interfaces web. 
