@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: '00 12 * * *'
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -19,6 +19,6 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_OS: "True"
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "XY: Dev Stats Update"
+          COMMIT_MESSAGE: "XY: dev Stats updated"
           SHOW_LOC_CHART: "False"
           
