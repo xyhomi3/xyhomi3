@@ -45,60 +45,62 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-376-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-376-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-1.6%20thousand%20Lignes%20de%20code-blue)
 
-> 📦 836 Bytes Used in GitHub's Storage 
+**🐱 Mes données GitHub** 
+
+> 📦 865 Bytes Utilisés sur le stockage de GitHub 
  > 
-> 🏆 96 Contributions in the Year 2023
+> 🏆 97 Contributions en 2023
  > 
-> 💼 Opted to Hire
+> 💼 A choisi d'embaucher
  > 
-> 📜 4 Public Repositories 
+> 📜 4 dépots publiques 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 1 dépots privés 
  > 
-**I'm a Night 🦉** 
+**Je suis un 🦉 de nuit** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-🌆 Daytime                39 commits          ███████████░░░░░░░░░░░░░░   43.33 % 
-🌃 Evening                23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-🌙 Night                  24 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌞 Matin                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+🌆 Journée                39 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Soirée                 23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+🌙 Nuit                   25 commits          ███████░░░░░░░░░░░░░░░░░░   27.47 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **Je suis le plus productif le Mercredi** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Tuesday                  13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Wednesday                56 commits          ████████████████░░░░░░░░░   62.22 % 
-Thursday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Lundi                    9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Mardi                    13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Mercredi                 56 commits          ███████████████░░░░░░░░░░   61.54 % 
+Jeudi                    11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Vendredi                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Samedi                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Dimanche                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Cette semaine, je passe mon temps sur** 
 
 ```text
-🕑︎ Time Zone: Africa/Dakar
+🕑︎ Fuseau horaire: Africa/Dakar
 
-💬 Programming Languages: 
+💬 Langages: 
 Markdown                 1 min               █████████████████████████   100.00 % 
 
-🔥 Editors: 
+🔥 Éditeurs de code: 
 VS Code                  1 min               █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
+🐱‍💻 Projets: 
 xyhomi3                  1 min               █████████████████████████   100.00 % 
 
-💻 Operating System: 
+💻 Système d'exploitation: 
 Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**Je code principalement en TypeScript** 
 
 ```text
 TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
@@ -108,12 +110,12 @@ JavaScript               2 repos             ███████░░░░�
 
 
 
-**Timeline**
+**Chronologie**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/xyhomi3/xyhomi3/master/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2023 01:18:32 UTC
+ Last Updated on 21/09/2023 01:33:48 UTC
 <!--END_SECTION:waka-->
 
 
