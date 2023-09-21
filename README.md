@@ -50,6 +50,9 @@ Markdown   1 min           █████████████████�
 
 <!--END_SECTION:waka-->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=xyhomi3&bg_color=0000000&color=033a1d&line=099a4d&point=033a1d&area_color=033a1d&area=true&hide_border=true)
