@@ -21,4 +21,5 @@ jobs:
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "XY: dev Stats updated"
           SHOW_LOC_CHART: "False"
+          TIME_RANGE: "all_time"
           
