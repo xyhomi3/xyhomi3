@@ -1,5 +1,7 @@
 # 👋 Quel plaisir de te voir ici!
 
+![Header](./github-header-image.png)
+
 Je me nomme **Lucien**, mais tu peux m'appeler HOMi3. Je suis passionné par la création d'expériences utilisateur et je suis toujours à l'affût des dernières tendances pour optimiser les performances et la convivialité des interfaces web. Ma collaboration efficace avec des designers et des développeurs fait de moi un membre précieux de toute équipe de développement. Mon objectif est d'améliorer continuellement l'expérience en ligne des utilisateurs en créant des produits web innovants et performants.
 
 ---
