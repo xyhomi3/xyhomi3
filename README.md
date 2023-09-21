@@ -1,8 +1,8 @@
+<!--START_SECTION:waka-->
 
 <h1 align="left">👋 Quel plaisir de te voir ici!</h1>
 
-![](https://komarev.com/ghpvc/?username=xyhomi3&&style=flat-square)
-[![Gists Badge](https://badges.pufler.dev/gists/xyhomi3)](https://badges.pufler.dev)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-376-blue) ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue) [![Gists Badge](https://badges.pufler.dev/gists/xyhomi3)](https://badges.pufler.dev)
 
 ###
 
@@ -42,10 +42,6 @@
 
 ###
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-376-blue)
 
 **Je suis un 🦉 de nuit** 
 
@@ -99,9 +95,5 @@ JavaScript               2 repos             ███████░░░░�
 
  Last Updated on 21/09/2023 01:55:06 UTC
 <!--END_SECTION:waka-->
-
-
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=xyhomi3&bg_color=0000000&color=033a1d&line=099a4d&point=033a1d&area_color=033a1d&area=true&hide_border=true)
 
 
