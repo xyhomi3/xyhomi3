@@ -1,4 +1,4 @@
-# 👋 Salut !
+# 👋 Hello World!
 
 ![Header](./github-header-image.png)
 
