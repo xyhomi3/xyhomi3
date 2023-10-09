@@ -1,12 +1,13 @@
 # 👋 Hello World!
 
-![Header](./github-header-image.png)
+Je suis **Lucien**, un passionné du développement web spécialisé dans la création d'interfaces utilisateur exceptionnelles. Toujours en quête des dernières tendances pour optimiser les performances et la convivialité des sites web. Mon expertise couvre à la fois le front-end et le back-end, ce qui me permet de collaborer efficacement avec des designers et des développeurs pour créer des produits web innovants et performants. 
+**Mon objectif** : 
+améliorer continuellement l'expérience en ligne des utilisateurs.
 
-Je me nomme **Lucien**, mais tu peux m'appeler HOMi3. Je suis passionné par la création d'expériences utilisateur et je suis toujours à l'affût des dernières tendances pour optimiser les performances et la convivialité des interfaces web. Ma collaboration efficace avec des designers et des développeurs fait de moi un membre précieux de toute équipe de développement. Mon objectif est d'améliorer continuellement l'expérience en ligne des utilisateurs en créant des produits web innovants et performants.
+##
 
 ![CodeWars Badge](https://www.codewars.com/users/xyhomi3/badges/small)
 
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2020%20mins-blue)
 
@@ -15,21 +16,21 @@ Je me nomme **Lucien**, mais tu peux m'appeler HOMi3. Je suis passionné par la 
 **Je suis un 🐤 du matin** 
 
 ```text
-🌞 Matin                  432 commits         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌆 Journée                465 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-🌃 Soirée                 495 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌙 Nuit                   362 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌞 Matin                  432 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+🌆 Journée                465 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+🌃 Soirée                 494 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌙 Nuit                   362 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 ```
 📅 **Je suis le plus productif le Vendredi** 
 
 ```text
-Lundi                    252 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Mardi                    186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Mercredi                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Jeudi                    255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Vendredi                 273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Samedi                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Dimanche                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Lundi                    251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Mardi                    186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Mercredi                 253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Jeudi                    255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Vendredi                 273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Samedi                   267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Dimanche                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 ```
 
 
@@ -72,7 +73,7 @@ Swift                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2023 22:17:48 UTC
+ Last Updated on 09/10/2023 21:56:18 UTC
 <!--END_SECTION:waka-->
 ---
 
