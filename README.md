@@ -9,7 +9,7 @@ Je suis **Lucien**, un passionné du développement web spécialisé dans la cr�
 ![CodeWars Badge](https://www.codewars.com/users/xyhomi3/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-19-blue)
 
@@ -60,20 +60,20 @@ xy-phone-auth            3 hrs 24 mins       ██░░░░░░░░░�
 Mac                      39 hrs              █████████████████████████   100.00 % 
 ```
 
-**Je code principalement en TypeScript** 
+**Je code principalement en JavaScript** 
 
 ```text
-TypeScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 07/11/2023 22:57:28 UTC
+ Last Updated on 07/11/2023 23:19:40 UTC
 <!--END_SECTION:waka-->
 ---
 
