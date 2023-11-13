@@ -9,7 +9,7 @@ Je suis **Lucien**, un passionné du développement web spécialisé dans la cr�
 ![CodeWars Badge](https://www.codewars.com/users/xyhomi3/badges/small)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-21-blue)
 
@@ -17,14 +17,14 @@ Je suis **Lucien**, un passionné du développement web spécialisé dans la cr�
 
 ```text
 🌞 Matin                  1247 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌆 Journée                1161 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Soirée                 1335 commits        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+🌆 Journée                1162 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+🌃 Soirée                 1335 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
 🌙 Nuit                   950 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 ```
 📅 **Je suis le plus productif le Dimanche** 
 
 ```text
-Lundi                    674 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Lundi                    675 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 Mardi                    610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 Mercredi                 638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Jeudi                    667 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
@@ -73,7 +73,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2023 16:55:39 UTC
+ Last Updated on 13/11/2023 17:16:28 UTC
 <!--END_SECTION:waka-->
 ---
 
