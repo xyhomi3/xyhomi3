@@ -1,7 +1,6 @@
 # 👋 Hello World!
 
-Je suis **Lucien**, un passionné du développement web spécialisé dans la création d'interfaces utilisateur exceptionnelles. Toujours en quête des dernières tendances pour optimiser les performances et la convivialité des sites web. Mon expertise couvre à la fois le front-end et le back-end, ce qui me permet de collaborer efficacement avec des designers et des développeurs pour créer des produits web innovants et performants.
-
+Je suis **Lucien**, un passionné du développement web spécialisé dans la création d'interface & expérience utilisateur.
 [![An image of @xyhomi3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xyhomi3)](https://holopin.io/@xyhomi3)
 
 ##
