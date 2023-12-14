@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-Je suis **Lucien**, un passionné du développement web spécialisé dans la création d'interface & expérience utilisateur.
+Je suis **Lucien**, passionné du développement web spécialisé dans la création d'interface & expérience utilisateur.
 [![An image of @xyhomi3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xyhomi3)](https://holopin.io/@xyhomi3)
 
 ##
