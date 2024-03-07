@@ -5,8 +5,6 @@ Je suis **Lucien**, passionné du développement web spécialisé dans la créat
 
 ##
 
-![CodeWars Badge](https://www.codewars.com/users/xyhomi3/badges/small)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2048%20mins-blue)
 
@@ -79,4 +77,6 @@ HTML                     1 repo              █░░░░░░░░░░�
   </a>
 </p>
 
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@1oua/30-nites-of-code)  
+  ![@1oua #30NitesOfCode](https://www.codedex.io/api/petStatus?user=1oua)
