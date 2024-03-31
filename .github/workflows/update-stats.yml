@@ -20,6 +20,6 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_OS: "True"
           COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "XY: dev Stats updated"
+          COMMIT_MESSAGE: "lU: dev Stats updated"
           SHOW_LOC_CHART: "False"
           
