@@ -76,10 +76,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,md,scss,tailwind,react,redux,docker,express,astro,vite,nextjs,vercel,figma,ableton" />
+    <img src="https://skillicons.dev/icons?i=ts,js,md,scss,tailwind,react,docker,express,astro,vite,nextjs,vercel,figma,ableton" />
   </a>
 </p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@1oua/30-nites-of-code)  
-  ![@1oua #30NitesOfCode](https://www.codedex.io/api/petStatus?user=1oua)
